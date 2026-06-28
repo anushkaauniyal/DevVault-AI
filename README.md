@@ -31,3 +31,5 @@ docs/
 ---
 
 Built with ❤️ by Anushka Uniyal
+
+Version: v0.0.1 🚀
